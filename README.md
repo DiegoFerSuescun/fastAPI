@@ -1,4 +1,4 @@
-# APPI
+# API
 
 Para correr las siguientes instrucciones en la terminal de powershell:
 ```sh
